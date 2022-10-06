@@ -26,7 +26,7 @@ Summary of Related Research on Image-Text Matching
 - `[2022 SIGIR]` **Where Does the Performance Improvement Come From? -- A Reproducibility Concern about Image-Text Retrieval**  
 *Jun Rao, Fei Wang, Liang Ding, Shuhan Qi, Yibing Zhan, Weifeng Liu, Dacheng Tao*  
 [[paper]](https://arxiv.org/pdf/2203.03853)
-[[code]]([https://github.com/CrossmodalGroup/CMCAN](https://github.com/WangFei-2019/Image-text-Retrieval))
+[[code]](https://github.com/WangFei-2019/Image-text-Retrieval)
 
 
 ### 2021
