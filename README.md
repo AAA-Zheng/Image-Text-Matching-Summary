@@ -56,3 +56,10 @@ Summary of Related Research on Image-Text Matching
 *Kuang-Huei Lee, Xi Chen, Gang Hua, Houdong Hu, Xiaodong He*  
 [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kuang-Huei_Lee_Stacked_Cross_Attention_ECCV_2018_paper.pdf)
 [[code]](https://github.com/kuanghuei/SCAN)
+
+- `[2018 BMVC]` **VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (VSE++)**  
+*Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler*  
+[[paper]](https://arxiv.org/pdf/1707.05612)
+[[code]](https://github.com/fartashf/vsepp)
+
+
