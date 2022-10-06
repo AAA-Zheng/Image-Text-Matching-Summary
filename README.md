@@ -1,4 +1,4 @@
-# Image-Text Matching
+# Image-Text Matching Summary
 Summary of Related Research on Image-Text Matching
 
 ## Papers
