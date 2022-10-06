@@ -19,6 +19,10 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-2029.ZhangH.pdf)
 [[code]](https://github.com/CrossmodalGroup/CMCAN)
 
+- `[2022 IJCAI]` **Multi-View Visual Semantic Embedding (MV-VSE)**  
+*Zheng Li, Caili Guo, Zerun Feng, Jenq-Neng Hwang, Xijun Xue*  
+[[paper]](https://www.ijcai.org/proceedings/2022/0158.pdf)
+
 - `[2022 IJCAI]` **Image-text Retrieval: A Survey on Recent Research and Development**  
 *Min Cao, Shiping Li, Juntao Li, Liqiang Nie, Min Zhang*  
 [[paper]](https://arxiv.org/pdf/2203.14713)
