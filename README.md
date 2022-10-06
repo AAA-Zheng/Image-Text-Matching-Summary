@@ -32,9 +32,13 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/2203.03853)
 [[code]](https://github.com/WangFei-2019/Image-text-Retrieval)
 
-- `[2022 TMM]` **Unified Adaptive Relevance Distinguishable Attention Network for Image-Text Matching**  
+- `[2022 TMM]` **Unified Adaptive Relevance Distinguishable Attention Network for Image-Text Matching (UARDA)**  
 *Kun Zhang, Zhendong Mao, Anan Liu, Yongdong Zhang*  
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676463)
+
+- `[2022 TCSVT]` **Hierarchical Feature Aggregation Based on Transformer for Image-Text Matching (HAT)**  
+*Xinfeng Dong, Huaxiang Zhang, Lei Zhu, Liqiang Nie, Li Liu*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745936)
 
 
 ### 2021
