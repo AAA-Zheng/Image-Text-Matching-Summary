@@ -31,6 +31,11 @@ Summary of Related Research on Image-Text Matching
 
 ### 2021
 
+- `[2021 CVPR]` **Learning the Best Pooling Strategy for Visual Semantic Embedding (GPO)**  
+*Jiacheng Chen, Hexiang Hu, Hao Wu, Yuning Jiang, Changhu Wang*  
+[[paper]](https://arxiv.org/pdf/2011.04305)
+[[code]](https://github.com/woodfrog/vse_infty)
+
 - `[2021 AAAI]` **Similarity Reasoning and Filtration for Image-Text Matching (SGRAF)**  
 *Haiwen Diao, Ying Zhang, Lin Ma, Huchuan Lu*  
 [[paper]](https://arxiv.org/pdf/2101.01368)
