@@ -32,6 +32,10 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/2203.03853)
 [[code]](https://github.com/WangFei-2019/Image-text-Retrieval)
 
+- `[2022 TMM]` **Unified Adaptive Relevance Distinguishable Attention Network for Image-Text Matching**  
+*Kun Zhang, Zhendong Mao, Anan Liu, Yongdong Zhang*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676463)
+
 
 ### 2021
 
