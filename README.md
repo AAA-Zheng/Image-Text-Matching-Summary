@@ -67,6 +67,11 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoning_for_Image-Text_Matching_ICCV_2019_paper.pdf)
 [[code]](https://github.com/KunpengLi1994/VSRN)
 
+- `[2019 IJCAI]` **Position Focused Attention Network for Image-Text Matching (PFAN)**  
+*Yaxiong Wang, Hao Yang, Xueming Qian, Lin Ma, Jing Lu, Biao Li, Xin Fan*  
+[[paper]](https://arxiv.org/pdf/1907.09748)
+[[code]](https://github.com/HaoYang0123/Position-Focused-Attention-Network)
+
 ### 2018
 
 - `[2018 ECCV]` **Stacked Cross Attention for Image-Text Matching (SCAN)**  
