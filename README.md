@@ -78,6 +78,11 @@ Summary of Related Research on Image-Text Matching
 *Xi Wei, Tianzhu Zhang, Yan Li, Yongdong Zhang, Feng Wu*  
 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf)
 
+- `[2020 CVPR]` **Universal Weighting Metric Learning for Cross-Modal Matching**  
+*Jiwei Wei, Xing Xu, Yang Yang, Yanli Ji, Zheng Wang, Heng Tao Shen*  
+[[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Universal_Weighting_Metric_Learning_for_Cross-Modal_Matching_CVPR_2020_paper.pdf)
+[[code]](https://github.com/wayne980/PolyLoss)
+
 - `[2020 ECCV]` **Consensus-Aware Visual-Semantic Embedding for Image-Text Matching (CVSE)**  
 *Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma*  
 [[paper]](https://arxiv.org/pdf/2007.08883)
