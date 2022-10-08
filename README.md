@@ -43,6 +43,10 @@ Summary of Related Research on Image-Text Matching
 
 ### 2021
 
+- `[2021 ICCV]` **Wasserstein Coupled Graph Learning for Cross-Modal Retrieval (WCGL)**  
+*Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang*  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Wasserstein_Coupled_Graph_Learning_for_Cross-Modal_Retrieval_ICCV_2021_paper.pdf)
+
 - `[2021 CVPR]` **Discrete-continuous Action Space Policy Gradient-based Attention for Image-Text Matching**  
 *Shiyang Yan, Li Yu, Yuan Xie*  
 [[paper]](https://arxiv.org/abs/2104.10406)
@@ -99,6 +103,21 @@ Summary of Related Research on Image-Text Matching
 *Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, Yun Fu*  
 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoning_for_Image-Text_Matching_ICCV_2019_paper.pdf)
 [[code]](https://github.com/KunpengLi1994/VSRN)
+
+- `[2019 ICCV]` **CAMP: Cross-Modal Adaptive Message Passing for Text-Image Retrieval (CAMP)**  
+*Zihao Wang, Xihui Liu, Hongsheng Li, Lu Sheng, Junjie Yan, Xiaogang Wang, Jing Shao*  
+[[paper]](https://arxiv.org/abs/1909.05506)
+[[code]](https://github.com/ZihaoWang-CV/CAMP_iccv19)
+
+- `[2019 ICCV]` **Saliency-Guided Attention Network for Image-Sentence Matching (SAN)**  
+*Zhong Ji, Haoran Wang, Jungong Han, Yanwei Pang*  
+[[paper]](https://arxiv.org/abs/1904.09471)
+[[code]](https://github.com/HabbakukWang1103/SAN)
+
+- `[2019 ICCV]` **Language-Agnostic Visual-Semantic Embeddings (LIWE)**  
+*Jonatas Wehrmann, Maurício Armani Lopes, Douglas Souza, Rodrigo Barros*  
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wehrmann_Language-Agnostic_Visual-Semantic_Embeddings_ICCV_2019_paper.pdf)
+[[code]](https://github.com/jwehrmann/lavse)
 
 - `[2019 ACM MM]` **Focus Your Attention: A Bidirectional Focal Attention Network for Image-Text Matching (BFAN)**  
 *Chunxiao Liu, Zhendong Mao, An-An Liu, Tianzhu Zhang, Bin Wang, Yongdong Zhang*  
