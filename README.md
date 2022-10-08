@@ -43,6 +43,11 @@ Summary of Related Research on Image-Text Matching
 
 ### 2021
 
+- `[2021 CVPR]` **Discrete-continuous Action Space Policy Gradient-based Attention for Image-Text Matching**  
+*Shiyang Yan, Li Yu, Yuan Xie*  
+[[paper]](https://arxiv.org/abs/2104.10406)
+[[code]](https://github.com/Shiyang-Yan/Discrete-continous-PG-for-Retrieval)
+
 - `[2021 CVPR]` **Learning the Best Pooling Strategy for Visual Semantic Embedding (GPO)**  
 *Jiacheng Chen, Hexiang Hu, Hao Wu, Yuning Jiang, Changhu Wang*  
 [[paper]](https://arxiv.org/pdf/2011.04305)
@@ -59,6 +64,19 @@ Summary of Related Research on Image-Text Matching
 *Chunxiao Liu, Zhendong Mao, Tianzhu Zhang, Hongtao Xie, Bin Wang, Yongdong Zhang*  
 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Graph_Structured_Network_for_Image-Text_Matching_CVPR_2020_paper.pdf)
 [[code]](https://github.com/CrossmodalGroup/GSMN)
+
+- `[2020 CVPR]` **IMRAM: Iterative Matching with Recurrent Attention Memory for Cross-Modal Image-Text Retrieval (IMRAM)**  
+*Hui Chen, Guiguang Ding, Xudong Liu, Zijia Lin, Ji Liu, Jungong Han*  
+[[paper]](https://arxiv.org/abs/2003.03772)
+[[code]](https://github.com/HuiChen24/IMRAM)
+
+- `[2020 CVPR]` **Context-Aware Attention Network for Image-Text Retrieval (CAAN)**  
+*Qi Zhang, Zhen Lei, Zhaoxiang Zhang, Stan Z. Li*  
+[[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Context-Aware_Attention_Network_for_Image-Text_Retrieval_CVPR_2020_paper.pdf)
+
+- `[2020 CVPR]` **Multi-Modality Cross Attention Network for Image and Sentence Matching (MMCA)**  
+*Xi Wei, Tianzhu Zhang, Yan Li, Yongdong Zhang, Feng Wu*  
+[[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Multi-Modality_Cross_Attention_Network_for_Image_and_Sentence_Matching_CVPR_2020_paper.pdf)
 
 - `[2020 ECCV]` **Consensus-Aware Visual-Semantic Embedding for Image-Text Matching (CVSE)**  
 *Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma*  
