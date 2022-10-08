@@ -65,12 +65,22 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/2007.08883)
 [[code]](https://github.com/BruceW91/CVSE)
 
+- `[2020 ECCV]` **Adaptive Offline Quintuplet Loss for Image-Text Matching (AOQ)**  
+*Tianlang Chen, Jiajun Deng, Jiebo Luo*  
+[[paper]](https://arxiv.org/abs/2003.03669)
+[[code]](https://github.com/sunnychencool/AOQ)
+
 ### 2019
 
 - `[2019 ICCV]` **Visual Semantic Reasoning for Image-Text Matching (VSRN)**  
 *Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, Yun Fu*  
 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Visual_Semantic_Reasoning_for_Image-Text_Matching_ICCV_2019_paper.pdf)
 [[code]](https://github.com/KunpengLi1994/VSRN)
+
+- `[2019 ACM MM]` **Focus Your Attention: A Bidirectional Focal Attention Network for Image-Text Matching (BFAN)**  
+*Chunxiao Liu, Zhendong Mao, An-An Liu, Tianzhu Zhang, Bin Wang, Yongdong Zhang*  
+[[paper]](https://arxiv.org/abs/1909.11416)
+[[code]](https://github.com/CrossmodalGroup/BFAN)
 
 - `[2019 IJCAI]` **Position Focused Attention Network for Image-Text Matching (PFAN)**  
 *Yaxiong Wang, Hao Yang, Xueming Qian, Lin Ma, Jing Lu, Biao Li, Xin Fan*  
