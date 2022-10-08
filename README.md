@@ -60,6 +60,11 @@ Summary of Related Research on Image-Text Matching
 [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Graph_Structured_Network_for_Image-Text_Matching_CVPR_2020_paper.pdf)
 [[code]](https://github.com/CrossmodalGroup/GSMN)
 
+- `[2020 ECCV]` **Consensus-Aware Visual-Semantic Embedding for Image-Text Matching (CVSE)**  
+*Haoran Wang, Ying Zhang, Zhong Ji, Yanwei Pang, Lin Ma*  
+[[paper]](https://arxiv.org/pdf/2007.08883)
+[[code]](https://github.com/BruceW91/CVSE)
+
 ### 2019
 
 - `[2019 ICCV]` **Visual Semantic Reasoning for Image-Text Matching (VSRN)**  
