@@ -97,6 +97,11 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/abs/2003.03669)
 [[code]](https://github.com/sunnychencool/AOQ)
 
+- `[2020 TOMM]` **Dual-path Convolutional Image-Text Embeddings with Instance Loss**  
+*Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Mingliang Xu, YiDong Shen*  
+[[paper]](https://arxiv.org/pdf/1711.05535)
+[[code]](https://github.com/layumi/Image-Text-Embedding)
+
 ### 2019
 
 - `[2019 ICCV]` **Visual Semantic Reasoning for Image-Text Matching (VSRN)**  
