@@ -102,6 +102,10 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/1711.05535)
 [[code]](https://github.com/layumi/Image-Text-Embedding)
 
+- `[2020 TNNLS]` **Cross-Modal Attention With Semantic Consistence for Image–Text Matching (CASC)**  
+*Xing Xu, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen, Heng Tao Shen*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994196)
+
 ### 2019
 
 - `[2019 ICCV]` **Visual Semantic Reasoning for Image-Text Matching (VSRN)**  
@@ -123,6 +127,11 @@ Summary of Related Research on Image-Text Matching
 *Jonatas Wehrmann, Maurício Armani Lopes, Douglas Souza, Rodrigo Barros*  
 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wehrmann_Language-Agnostic_Visual-Semantic_Embeddings_ICCV_2019_paper.pdf)
 [[code]](https://github.com/jwehrmann/lavse)
+
+- `[2019 CVPR]` **Polysemous Visual-Semantic Embedding for Cross-Modal Retrieval (PVSE)**  
+*Yale Song, Mohammad Soleymani*  
+[[paper]](https://arxiv.org/abs/1906.04402)
+[[code]](https://github.com/yalesong/pvse)
 
 - `[2019 ACM MM]` **Focus Your Attention: A Bidirectional Focal Attention Network for Image-Text Matching (BFAN)**  
 *Chunxiao Liu, Zhendong Mao, An-An Liu, Tianzhu Zhang, Bin Wang, Yongdong Zhang*  
