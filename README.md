@@ -178,13 +178,13 @@ Summary of Related Research on Image-Text Matching
 ### Performance on Flickr30K
 <table>
   <tr>
-    <td rowspan=2>Model</td>
-    <td rowspan=2>Reference</td>
-    <td rowspan=2>Image Encoder</td>
-    <td rowspan=2>Text Encoder</td>
-    <td colspan=3>Image-to-Text</td>
-    <td colspan=3>Text-to-Image</td>
-    <td rowspan=2>RSUM</td>
+    <td rowspan=2 align='center'>Model</td>
+    <td rowspan=2 align='center'>Reference</td>
+    <td rowspan=2 align='center'>Image Encoder</td>
+    <td rowspan=2 align='center'>Text Encoder</td>
+    <td colspan=3 align='center'>Image-to-Text</td>
+    <td colspan=3 align='center'>Text-to-Image</td>
+    <td rowspan=2 align='center'>RSUM</td>
   </tr>
   <tr>
     <td>R@1</td>
