@@ -3,6 +3,12 @@ Summary of Related Research on Image-Text Matching
 
 ## Papers
 
+### 2023
+
+- `[2023 WACV]` **Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval (CMSEI)**  
+*Xuri Ge, Fuhai Chen, Songpei Xu, Fuxiang Tao, Joemon M. Jose*  
+[[paper]](https://arxiv.org/pdf/2210.08908)
+
 ### 2022
 
 - `[2022 ECCV]` **CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval (CODER)**  
