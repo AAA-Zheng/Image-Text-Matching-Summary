@@ -176,6 +176,30 @@ Summary of Related Research on Image-Text Matching
 ## Performance
 
 ### Performance on Flickr30K
+<table>
+  <tr>
+    <td rowspan=2>Model</td>
+    <td rowspan=2>Image Encoder</td>
+    <td rowspan=2>Text Encoder</td>
+    <td colspan=3>Image-to-Text</td>
+    <td colspan=3>Text-to-Image</td>
+    <td rowspan=2>RSUM</td>
+  </tr>
+  <tr>
+    <td>R@1</td>
+    <td>R@5</td>
+    <td>R@10</td>
+    <td>R@1</td>
+    <td>R@5</td>
+    <td>R@10</td>
+  </tr>
+  <tr>
+    <td>VSE++</td>
+    <td>ResNet-152</td>
+    <td>GRU</td>
+    <td> 52.9</td><td> 80.5</td><td> 87.2</td><td> 39.6</td><td> 70.1</td><td> 79.5</td><td> 409.8</td>
+  </tr>
+</table>
 
 ### Performance on MS-COCO 1K
 
