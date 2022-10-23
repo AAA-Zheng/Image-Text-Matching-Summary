@@ -179,6 +179,7 @@ Summary of Related Research on Image-Text Matching
 <table>
   <tr>
     <td rowspan=2>Model</td>
+    <td rowspan=2>Reference</td>
     <td rowspan=2>Image Encoder</td>
     <td rowspan=2>Text Encoder</td>
     <td colspan=3>Image-to-Text</td>
@@ -195,6 +196,7 @@ Summary of Related Research on Image-Text Matching
   </tr>
   <tr>
     <td>VSE++</td>
+    <td>2018 BMVC</td>
     <td>ResNet-152</td>
     <td>GRU</td>
     <td> 52.9</td><td> 80.5</td><td> 87.2</td><td> 39.6</td><td> 70.1</td><td> 79.5</td><td> 409.8</td>
