@@ -170,8 +170,15 @@ Summary of Related Research on Image-Text Matching
 [[code]](https://github.com/fartashf/vsepp)
 
 ## Datasets
-### Flickr30K  
+### Flickr30K
+`[2014 TACL]` **From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions**
+*Peter Young, Alice Lai, Micah Hodosh, Julia Hockenmaier*  
+[[paper]](https://aclanthology.org/Q14-1006.pdf)
+
 ### MS-COCO  
+`[2014 ECCV]` **Microsoft COCO: Common Objects in Context**
+*Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár & C. Lawrence Zitnick *  
+[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-319-10602-1_48.pdf)
 
 ## Performance
 
