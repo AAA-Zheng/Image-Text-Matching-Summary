@@ -208,6 +208,13 @@ Summary of Related Research on Image-Text Matching
     <td>GRU</td>
     <td> 52.9</td><td> 80.5</td><td> 87.2</td><td> 39.6</td><td> 70.1</td><td> 79.5</td><td> 409.8</td>
   </tr>
+  <tr>
+    <td>SCAN</td>
+    <td>2018 ECCV</td>
+    <td>BUTD</td>
+    <td>Bi-GRU</td>
+    <td> 67.4</td><td> 90.3</td><td> 95.8</td><td> 48.6</td><td> 77.7</td><td> 85.2</td><td> 465.0</td>
+  </tr>
 </table>
 
 ### Performance on MS-COCO 1K
