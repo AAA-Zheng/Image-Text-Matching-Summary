@@ -215,6 +215,34 @@ Summary of Related Research on Image-Text Matching
     <td>Bi-GRU</td>
     <td> 67.4</td><td> 90.3</td><td> 95.8</td><td> 48.6</td><td> 77.7</td><td> 85.2</td><td> 465.0</td>
   </tr>
+  <tr>
+    <td>VSRN</td>
+    <td>2019 ICCV</td>
+    <td>BUTD</td>
+    <td>GRU</td>
+    <td> 71.3</td><td> 90.6</td><td> 96.0</td><td> 54.7</td><td> 81.8</td><td> 88.2</td><td> 482.6</td>
+  </tr>
+  <tr>
+    <td>GSMN</td>
+    <td>2020 CVPR</td>
+    <td>BUTD</td>
+    <td>Bi-GRU</td>
+    <td> 76.4</td><td> 94.3</td><td> 97.3</td><td> 57.4</td><td> 82.3</td><td> 89.0</td><td> 496.8</td>
+  </tr>
+  <tr>
+    <td>SGRAF</td>
+    <td>2021 AAAI</td>
+    <td>BUTD</td>
+    <td>Bi-GRU</td>
+    <td> 77.8</td><td> 94.1</td><td> 97.4</td><td> 58.5</td><td> 83.0</td><td> 88.8</td><td> 499.6</td>
+  </tr>
+  <tr>
+    <td>NAAF</td>
+    <td>2022 CVPR</td>
+    <td>BUTD</td>
+    <td>Bi-GRU</td>
+    <td> 81.9</td><td> 96.1</td><td> 98.3</td><td> 61.0</td><td> 85.3</td><td> 90.6</td><td> 513.2</td>
+  </tr>
 </table>
 
 ### Performance on MS-COCO 1K
