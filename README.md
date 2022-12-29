@@ -182,7 +182,7 @@ Summary of Related Research on Image-Text Matching
 ### MS-COCO  
 `[2014 ECCV]` **Microsoft COCO: Common Objects in Context**  
 *Tsung-Yi Lin, Michael Maire, Serge Belongie, James Hays, Pietro Perona, Deva Ramanan, Piotr Dollár & C. Lawrence Zitnick*  
-[[paper]](https://link.springer.com/content/pdf/10.1007/978-3-319-10602-1_48.pdf)
+[[paper]](https://projet.liris.cnrs.fr/imagine/pub/proceedings/ECCV-2014/papers/8693/86930740.pdf)
 
 ## Performance
 
