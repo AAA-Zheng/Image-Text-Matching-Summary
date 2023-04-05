@@ -1,7 +1,7 @@
 # Image-Text Matching Summary
 Summary of Related Research on Image-Text Matching
 
-- [Papers](#Papers)
+- [Papers](#Papers): [Conference](#Conference), [Journal](#Journal)
 - [Datasets](#Datasets)
 - [Performance](#Performance)
 
@@ -11,7 +11,7 @@ Summary of Related Research on Image-Text Matching
 
 #### 2023
 
-- `[2023 CVPR]` **BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency**  
+- `[2023 CVPR]` **BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency (BiCro)**  
 *Shuo Yang, Zhaopan Xu, Kai Wang, Yang You, Hongxun Yao, Tongliang Liu, Min Xu*  
 [[paper]](https://arxiv.org/pdf/2303.12419)
 [[code]](https://github.com/xu5zhao/BiCro)
