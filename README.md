@@ -11,6 +11,19 @@ Summary of Related Research on Image-Text Matching
 
 #### 2023
 
+- `[2023 CVPR]` **BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency**  
+*Shuo Yang, Zhaopan Xu, Kai Wang, Yang You, Hongxun Yao, Tongliang Liu, Min Xu*  
+[[paper]](https://arxiv.org/pdf/2303.12419)
+[[code]](https://github.com/xu5zhao/BiCro)
+
+- `[2023 CVPR]` **Dissecting Deep Metric Learning Losses for Image-Text Retrieval**  
+*Dongwon Kim, Namyup Kim, Suha Kwak*  
+[[paper]](https://arxiv.org/pdf/2211.16761)
+
+- `[2023 WACV]` **Dissecting Deep Metric Learning Losses for Image-Text Retrieval**  
+*Hong Xuan, Xi (Stephen) Chen*  
+[[paper]](https://openaccess.thecvf.com/content/WACV2023/papers/Xuan_Dissecting_Deep_Metric_Learning_Losses_for_Image-Text_Retrieval_WACV_2023_paper.pdf)
+
 - `[2023 WACV]` **Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval (CMSEI)**  
 *Xuri Ge, Fuhai Chen, Songpei Xu, Fuxiang Tao, Joemon M. Jose*  
 [[paper]](https://arxiv.org/pdf/2210.08908)
