@@ -1,8 +1,8 @@
 # Image-Text Matching Summary
 Summary of Related Research on Image-Text Matching
 
-- [Papers](#Papers): [Conference](#Conference), [Journal](#Journal)
-- [Datasets](#Datasets)
+- [Papers](#Papers): [conference](#Conference), [journal](#Journal)
+- [Datasets](#Datasets): [Flickr30K](#Flickr30K), [MS-COCO](#MS-COCO)
 - [Performance](#Performance)
 
 ## Papers
