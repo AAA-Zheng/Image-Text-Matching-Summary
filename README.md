@@ -7,7 +7,9 @@ Summary of Related Research on Image-Text Matching
 
 ## Papers
 
-### 2023
+### Conference
+
+#### 2023
 
 - `[2023 WACV]` **Cross-modal Semantic Enhanced Interaction for Image-Sentence Retrieval (CMSEI)**  
 *Xuri Ge, Fuhai Chen, Songpei Xu, Fuxiang Tao, Joemon M. Jose*  
@@ -17,7 +19,7 @@ Summary of Related Research on Image-Text Matching
 *Yuxiao Chen, Jianbo Yuan, Long Zhao, Tianlang Chen, Rui Luo, Larry Davis, Dimitris N. Metaxas*  
 [[paper]](https://arxiv.org/pdf/2105.09597)
 
-### 2022
+#### 2022
 
 - `[2022 ECCV]` **CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval (CODER)**  
 *Haoran Wang, Dongliang He, Wenhao Wu, Boyang Xia, Min Yang, Fu Li, Yunlong Yu, Zhong Ji, Errui Ding, Jingdong Wang*  
@@ -46,20 +48,7 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/2203.03853)
 [[code]](https://github.com/WangFei-2019/Image-text-Retrieval)
 
-- `[2022 TIP]` **Adaptive Latent Graph Representation Learning for Image-Text Matching**  
-*Mengxiao Tian, Xinxiao Wu, Yunde Jia*  
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991857)
-
-- `[2022 TMM]` **Unified Adaptive Relevance Distinguishable Attention Network for Image-Text Matching (UARDA)**  
-*Kun Zhang, Zhendong Mao, Anan Liu, Yongdong Zhang*  
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676463)
-
-- `[2022 TCSVT]` **Hierarchical Feature Aggregation Based on Transformer for Image-Text Matching (HAT)**  
-*Xinfeng Dong, Huaxiang Zhang, Lei Zhu, Liqiang Nie, Li Liu*  
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745936)
-
-
-### 2021
+#### 2021
 
 - `[2021 ICCV]` **Wasserstein Coupled Graph Learning for Cross-Modal Retrieval (WCGL)**  
 *Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang*  
@@ -80,7 +69,7 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/2101.01368)
 [[code]](https://github.com/Paranioar/SGRAF)
 
-### 2020
+#### 2020
 
 - `[2020 CVPR]` **Graph Structured Network for Image-Text Matching (GSMN)**  
 *Chunxiao Liu, Zhendong Mao, Tianzhu Zhang, Hongtao Xie, Bin Wang, Yongdong Zhang*  
@@ -115,16 +104,7 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/abs/2003.03669)
 [[code]](https://github.com/sunnychencool/AOQ)
 
-- `[2020 TOMM]` **Dual-path Convolutional Image-Text Embeddings with Instance Loss**  
-*Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Mingliang Xu, YiDong Shen*  
-[[paper]](https://arxiv.org/pdf/1711.05535)
-[[code]](https://github.com/layumi/Image-Text-Embedding)
-
-- `[2020 TNNLS]` **Cross-Modal Attention With Semantic Consistence for Image–Text Matching (CASC)**  
-*Xing Xu, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen, Heng Tao Shen*  
-[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994196)
-
-### 2019
+#### 2019
 
 - `[2019 ICCV]` **Visual Semantic Reasoning for Image-Text Matching (VSRN)**  
 *Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, Yun Fu*  
@@ -161,7 +141,7 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/1907.09748)
 [[code]](https://github.com/HaoYang0123/Position-Focused-Attention-Network)
 
-### 2018
+#### 2018
 
 - `[2018 ECCV]` **Stacked Cross Attention for Image-Text Matching (SCAN)**  
 *Kuang-Huei Lee, Xi Chen, Gang Hua, Houdong Hu, Xiaodong He*  
@@ -172,6 +152,34 @@ Summary of Related Research on Image-Text Matching
 *Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler*  
 [[paper]](https://arxiv.org/pdf/1707.05612)
 [[code]](https://github.com/fartashf/vsepp)
+
+### Journal
+
+#### 2022
+
+- `[2022 TIP]` **Adaptive Latent Graph Representation Learning for Image-Text Matching**  
+*Mengxiao Tian, Xinxiao Wu, Yunde Jia*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9991857)
+
+- `[2022 TMM]` **Unified Adaptive Relevance Distinguishable Attention Network for Image-Text Matching (UARDA)**  
+*Kun Zhang, Zhendong Mao, Anan Liu, Yongdong Zhang*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676463)
+
+- `[2022 TCSVT]` **Hierarchical Feature Aggregation Based on Transformer for Image-Text Matching (HAT)**  
+*Xinfeng Dong, Huaxiang Zhang, Lei Zhu, Liqiang Nie, Li Liu*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745936)
+
+#### 2020
+
+- `[2020 TOMM]` **Dual-path Convolutional Image-Text Embeddings with Instance Loss**  
+*Zhedong Zheng, Liang Zheng, Michael Garrett, Yi Yang, Mingliang Xu, YiDong Shen*  
+[[paper]](https://arxiv.org/pdf/1711.05535)
+[[code]](https://github.com/layumi/Image-Text-Embedding)
+
+- `[2020 TNNLS]` **Cross-Modal Attention With Semantic Consistence for Image–Text Matching (CASC)**  
+*Xing Xu, Tan Wang, Yang Yang, Lin Zuo, Fumin Shen, Heng Tao Shen*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8994196)
+
 
 ## Datasets
 ### Flickr30K
