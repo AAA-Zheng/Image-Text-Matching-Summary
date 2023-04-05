@@ -168,6 +168,27 @@ Summary of Related Research on Image-Text Matching
 
 ### Journal
 
+#### 2023
+
+- `[2023 TPAMI]` **Cross-Modal Retrieval with Partially Mismatched Pairs (RCL)**  
+*Peng Hu, Zhenyu Huang, Dezhong Peng, Xu Wang, Xi Peng*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10050111)
+[[code]](https://github.com/penghu-cs/RCL)
+
+- `[2023 TIP]` **Plug-and-Play Regulators for Image-Text Matching (RCAR)**  
+*Haiwen Diao, Ying Zhang, Wei Liu, Xiang Ruan, Huchuan Lu*  
+[[paper]](https://arxiv.org/pdf/2303.13371)
+[[code]](https://github.com/Paranioar/RCAR)
+
+- `[2023 TMM]` **Integrating Language Guidance into Image-Text Matching for Correcting False Negatives (LG)**  
+*Zheng Li, Caili Guo, Zerun Feng, Jenq-Neng Hwang, Zhongtian Du*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10081045)
+[[code]](https://github.com/AAA-Zheng/LG_ITM)
+
+- `[2023 TMM]` **Inter-Intra Modal Representation Augmentation with DCT-Transformer Adversarial Network for Image-Text Matching (DTAN)**  
+*Chen Chen, Dan Wang, Bin Song, Hao Tan*  
+[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10041445)
+
 #### 2022
 
 - `[2022 TIP]` **Adaptive Latent Graph Representation Learning for Image-Text Matching**  
