@@ -16,7 +16,7 @@ Summary of Related Research on Image-Text Matching
 [[paper]](https://arxiv.org/pdf/2303.12419)
 [[code]](https://github.com/xu5zhao/BiCro)
 
-- `[2023 CVPR]` **Dissecting Deep Metric Learning Losses for Image-Text Retrieval**  
+- `[2023 CVPR]` **Improving Cross-Modal Retrieval with Set of Diverse Embeddings**  
 *Dongwon Kim, Namyup Kim, Suha Kwak*  
 [[paper]](https://arxiv.org/pdf/2211.16761)
 
