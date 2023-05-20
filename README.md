@@ -11,6 +11,16 @@ Summary of Related Research on Image-Text Matching
 
 #### 2023
 
+- `[2023 CVPR]` **Learning Semantic Relationship among Instances for Image-Text Matching (HREM)**  
+*Zheren Fu, Zhendong Mao, Yan Song, Yongdong Zhang*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Fine-Grained_Image-Text_Matching_by_Cross-Modal_Hard_Aligning_Network_CVPR_2023_paper.pdf)
+[[code]](https://github.com/CrossmodalGroup/HREM)
+
+- `[2023 CVPR]` **Fine-Grained Image-Text Matching by Cross-Modal Hard Aligning Network (CHAN)**  
+*Zhengxin Pan, Fangyu Wu, Bailing Zhang*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pan_Fine-Grained_Image-Text_Matching_by_Cross-Modal_Hard_Aligning_Network_CVPR_2023_paper.pdf)
+[[code]](https://github.com/ppanzx/CHAN)
+
 - `[2023 CVPR]` **BiCro: Noisy Correspondence Rectification for Multi-modality Data via Bi-directional Cross-modal Similarity Consistency (BiCro)**  
 *Shuo Yang, Zhaopan Xu, Kai Wang, Yang You, Hongxun Yao, Tongliang Liu, Min Xu*  
 [[paper]](https://arxiv.org/pdf/2303.12419)
@@ -19,6 +29,14 @@ Summary of Related Research on Image-Text Matching
 - `[2023 CVPR]` **Improving Cross-Modal Retrieval with Set of Diverse Embeddings**  
 *Dongwon Kim, Namyup Kim, Suha Kwak*  
 [[paper]](https://arxiv.org/pdf/2211.16761)
+
+- `[2023 SIGIR]` **Learnable Pillar-based Re-ranking for Image-Text Retrieval**  
+*Leigang Qu, Meng Liu, Wenjie Wang, Zhedong Zheng, Liqiang Nie, Tat-Seng Chua*  
+[[paper]](https://arxiv.org/pdf/2304.12570)
+
+- `[2023 SIGIR]` **Rethinking Benchmarks for Cross-modal Image-text Retrieval**  
+*Weijing Chen, Linli Yao, Qin Jin*  
+[[paper]](https://arxiv.org/pdf/2304.10824)
 
 - `[2023 WACV]` **Dissecting Deep Metric Learning Losses for Image-Text Retrieval**  
 *Hong Xuan, Xi (Stephen) Chen*  
